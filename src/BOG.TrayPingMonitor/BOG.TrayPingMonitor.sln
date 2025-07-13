@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOG.TrayPingMonitor.WinForm", "BOG.TrayPingMonitor.WinForm\BOG.TrayPingMonitor.WinForm.csproj", "{8A413D89-758C-433B-8789-73B3B9BD0E92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_SolutionItems", "_SolutionItems", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\.gitattributes = ..\..\.gitattributes
+		..\..\.gitignore = ..\..\.gitignore
+		..\..\LICENSE = ..\..\LICENSE
+		..\..\README.md = ..\..\README.md
+		..\..\TrayPingMonitor_Summary.txt = ..\..\TrayPingMonitor_Summary.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A413D89-758C-433B-8789-73B3B9BD0E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A413D89-758C-433B-8789-73B3B9BD0E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A413D89-758C-433B-8789-73B3B9BD0E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A413D89-758C-433B-8789-73B3B9BD0E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B101A79-DBEB-408B-9058-D329DD59ECC6}
+	EndGlobalSection
+EndGlobal
